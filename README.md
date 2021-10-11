@@ -12,7 +12,8 @@ Technologies implemented:
 - Jquery
 - HTML
 - CSS
- Contains chat with auto response.
+
+Contains chat with auto response.
 
 Our purpose was to build a simple yet fully functional website tha emphasizes on the user experience, without lacking any functionality.
 
