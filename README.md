@@ -2,7 +2,16 @@
 This project was made as part of my training at PeopleCert Education Coding Bootcamp.
 
 It is a fully functional dynamic e-commerce website that shells computer peripherals. 
-Technologies implemented: Python, Django, REST API, SQLite3, Bootstrap, Javascript, HTML, CSS. Contains chat with auto response.
+Technologies implemented: 
+ -Python, 
+ -Django, 
+ -REST API, 
+ -SQLite3, 
+ -Bootstrap, 
+ -Javascript, 
+ -HTML, 
+ -CSS. 
+ Contains chat with auto response.
 
 Our purpose was to build a simple yet fully functional website tha emphasizes on the user experience, without lacking any functionality.
 
